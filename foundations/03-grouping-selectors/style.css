@@ -1,0 +1,14 @@
+.selector1,
+.selector2 {
+    font-size: 28px;
+    font-family: helvetica, "times new roman", sans-serif
+}
+
+.selector1 {
+    color: white;
+    background-color: black;
+}
+
+.selector2 {
+    background-color: yellow;
+}
